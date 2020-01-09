@@ -1,15 +1,16 @@
 {
-  "name": "package-auto-version",
-  "version": "1.0.1",
+  "name": "project-auto-version",
+  "version": "1.0.2",
   "description": "package.json 版本号自动更新工具",
   "main": "index.js",
-  "repository": "https://github.com/a951055/package-auto-version",
+  "repository": "https://github.com/a951055/project-auto-version",
   "author": "Halo",
   "license": "Apache-2.0",
   "keywords": [
     "package.json",
     "版本号维护工具",
-    "auto update version"
+    "auto update version",
+    "package auto version"
   ],
   "devDependencies": {
     "project-base-path": "^1.0.2"

@@ -6,7 +6,7 @@
 ### usage
 
 ```
-const { version } = require("package-auto-version");
+const { version } = require("project-auto-version");
 
 // - case 1 : 获取当前版本号
 console.log("current version:", version.current);f
