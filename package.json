@@ -1,6 +1,6 @@
 {
   "name": "project-auto-version",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "package.json 版本号自动更新工具",
   "main": "index.js",
   "repository": "https://github.com/a951055/project-auto-version",

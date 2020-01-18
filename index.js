@@ -51,7 +51,7 @@ const version = {
     if (!packageJson) return;
     packageJson.version = this.next;
     this.write(packageJson, miniify);
-    return JSON.stringify(packageJson, null, 2);
+    return this.current;
   }
 };
 module.exports = { version };
